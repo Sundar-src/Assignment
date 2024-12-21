@@ -18,8 +18,8 @@ This project is a fully responsive Checkout Page for an e-commerce platform sell
 * **Form Validation**: Ensures users submit valid information in the contact form.
 
 ##Installation
-1 **Clone the repository**
-  git clone https://github.com/yourusername/pride-of-cows-checkout.git
-2 **Navigate to the project folder**
+* **Clone the repository**
+  (https://github.com/Sundar-src/Assignment)
+* **Navigate to the project folder**
   cd Checkout-page
-3 Open the `index.html` file in any browser.
+* Open the `index.html` file in any browser.
