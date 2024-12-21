@@ -17,7 +17,7 @@ This project is a fully responsive Checkout Page for an e-commerce platform sell
 * **Smooth Scrolling and Animations**: Enhances the user experience with fluid transitions and animations.
 * **Form Validation**: Ensures users submit valid information in the contact form.
 
-##Installation
+## Installation
 * **Clone the repository**:
   (https://github.com/Sundar-src/Assignment)
 * **Navigate to the project folder**:
