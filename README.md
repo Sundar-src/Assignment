@@ -25,4 +25,4 @@ This project is a fully responsive Checkout Page for an e-commerce platform sell
 * Open the `index.html` file in any browser.
 
 ## 📷 Preview:
-![Card Slider Preview](./Assets/screenshot.png)
+![Card Slider Preview](./screenshot.png)
